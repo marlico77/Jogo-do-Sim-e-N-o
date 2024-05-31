@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
     naoButton.addEventListener('touchstart', moveButton);
 
     simButton.addEventListener('click', function() {
-        mensagem.textContent = 'Ótima escolha';
+        mensagem.textContent = 'Manda uma foto';
     });
 });
